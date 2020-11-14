@@ -1,6 +1,6 @@
 backend:
-  name: github
-  branch: https://github.com/BojoZahariev/gatsby_test
+  name: git-gateway
+  branch: master
 
 media_folder: static/img
 public_folder: /img
